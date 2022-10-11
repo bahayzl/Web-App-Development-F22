@@ -24,5 +24,12 @@
                     <?php endfor; ?>
                 </select><br>
             </div>
+
+            <div id ="buttons">
+                <label>&nbsp;</label>
+                <input type="checkbox" name="compound_monthly">Compound Monthly
+                <br>
+                <label>&nbsp;</label>
+                <input type="submit" value="Calculate"><br>
          </form>
 </body>
